@@ -1,7 +1,7 @@
 # eb-cleanup-node-perf-logging
 
 This module installs an `.ebextensions` config file that will cleanup old
-perf-*.map files that are created when profiling a node process.
+`perf-*.map` files that are created when profiling a node process.
 
 ## Installation
 
