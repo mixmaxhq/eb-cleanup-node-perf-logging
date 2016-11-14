@@ -1,0 +1,31 @@
+{
+  "name": "eb-cleanup-node-perf-logging",
+  "version": "0.0.0",
+  "description": "Removes temporary map files created during node.js profiling.",
+  "scripts": {
+    "install": "install-files source",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmaxhq/eb-cleanup-node-perf-logging.git"
+  },
+  "keywords": [
+    "eb",
+    "elastic",
+    "beanstalk",
+    "perf",
+    "profiling",
+    "ebextensions",
+    "ebextension"
+  ],
+  "author": "Trey Tacon <trey@mixmax.com> (https://mixmax.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixmaxhq/eb-cleanup-node-perf-logging/issues"
+  },
+  "homepage": "https://github.com/mixmaxhq/eb-cleanup-node-perf-logging#readme",
+  "dependencies": {
+    "install-files": "^1.0.0"
+  }
+}
