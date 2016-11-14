@@ -1,6 +1,6 @@
 {
   "name": "eb-cleanup-node-perf-logging",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Removes temporary map files created during node.js profiling.",
   "scripts": {
     "install": "install-files source",
